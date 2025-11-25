@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Dave Wonnah
 
-<!--
-**davewonnah/davewonnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Engineer | 🧪 Technical Problem Solver | 💡 Creative Builder
 
-Here are some ideas to get you started:
+I love turning ideas into clean, scalable software.  
+Currently exploring:
+- 🔸 Vue.js + React  
+- 🔸 Node.js + Express  
+- 🔸 PostgreSQL  
+- 🔸 Smart dashboards & automation systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 What I Do
+- 🏗 Build full-stack web apps  
+- 🧠 Work on smart dashboards (AI-powered)  
+- 📱 Create check-in & attendance apps  
+- 🔐 Work with secure APIs, authentication, roles & tenants  
+
+---
+
+## 📊 GitHub Stats
+![Dave's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🧰 Tech Stack
+<div align="left">
+  
+### **Frontend**
+🟦 Vue • ⚛️ React • ⚡ Vite • 🎨 TailwindCSS • 📊 Chart.js  
+
+### **Backend**
+🟩 Node.js • Express • PostgreSQL • JWT • bcrypt  
+
+### **Tools**
+Git • Postman • VS Code • Docker • Linux  
+
+</div>
+
+---
+
+## 📫 Contact Me
+- Email: **wonnahdave@gmail.com**
+- Portfolio: *Coming soon…*
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to explore my projects.*
